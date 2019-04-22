@@ -5,7 +5,7 @@ Code repository for Badgewatch, a live-stream data portal from
 
 Try it at [BadgeWatch.abajusticehack.org](https://badgewatch.abajusticehack.org). (Link not working)
 
-* [GitHub](#)
+* [GitHub](https://github.com/HiGregory/BadgeWatchPrototype)
 * [Test Link](#)
 
 ## Documentation

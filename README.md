@@ -1,7 +1,7 @@
 # Badge Watch
 
-Code repository for Badgewatch, a live-stream data portal from
-[ABA Justice Hack](https://www.abajusticehack.org) maintained by [Gregory](https://www.higregory.com)
+Code repository for Badgewatch web app prototype, a live-stream data portal for
+[ABA Justice Hack](https://www.abajusticehack.org) formely maintained by Gregory. This is just a proof of concept and is not a literal functioning app in production.
 
 Try it at [BadgeWatch.abajusticehack.org](https://badgewatch.abajusticehack.org). (Link not working)
 

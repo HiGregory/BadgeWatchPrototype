@@ -1,12 +1,12 @@
 # Badge Watch
 
-Code repository for Badgewatch web app prototype, a live-stream data portal for
-[ABA Justice Hack](https://www.abajusticehack.org) formely maintained by Gregory. This is just a proof of concept and is not a literal functioning app in production.
-
-Try it at [BadgeWatch.abajusticehack.org](https://badgewatch.abajusticehack.org). (Link not working)
+Code repository for Badgewatch, a live-stream data portal from
+[ABA Justice Hack](https://www.abajusticehack.org/badgewatchg) being prototyped by [Code FOr Miami](https://www.codeformiami.com). This app is only for demonstration and feature validation not for use in production. Use this as a framework to build your own version of this app in the language you feel most comfortable in.
 
 * [GitHub](https://github.com/HiGregory/BadgeWatchPrototype)
-* [Test Link](#)
+* [Requirements](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
+* [UX Research](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
+* [App Proof of Concept](badgewatch.higregory.com)
 
 ## Documentation
 

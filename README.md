@@ -1,6 +1,6 @@
 # Badge Watch
 
-The purpose of this repo is to demonstrate on how you could quickly build an HTML-page that showcases in a video list format by city information. This is the start of a rough MVP that will require more discovery to improve.
+BadgeWatch is a social justice proof of concept written with simple HTML/CSS/JS to validate the idea that content can be consolidated to help keep residents accountable to the actions of the police force locally. This is a rough prototype supported by ABA Justice Hack with Code for Miami as contributors to discover methods of approaching informing residents about police activity in a responsible way. 
 
 Code repository for Badgewatch, a live-stream data portal from
 [ABA Justice Hack](https://www.abajusticehack.org/badgewatchg) being prototyped by [Code For Miami](https://www.codeformiami.com). This app is only for demonstration and feature validation not for use in production. Use this as a framework to build your own version of this app in the language you feel most comfortable in.

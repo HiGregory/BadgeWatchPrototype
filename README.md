@@ -1,7 +1,12 @@
-# Badge Watch
+# Badge Watch Update | Aug 3, 2020
 
-BadgeWatch is a social justice proof of concept written with simple HTML/CSS/JS to validate the idea that content can be consolidated to help keep residents accountable to the actions of the police force locally. This is a rough prototype supported by ABA Justice Hack with Code for Miami as contributors to discover methods of approaching informing residents about police activity in a responsible way. 
+Where can you find police complaints in your local city or county? Often this data is compilled and shared in reports but 
+it's hard for people to access. Many cities and counties like Miami have reports with information like this that if put into a simple
+search tool could help people identify information.
 
+Orginally a prototype concept, BadgeWatch is a badge search tool for local residents to find information related to police complaints. 
+
+--------------------
 Code repository for Badgewatch, a live-stream data portal from
 [ABA Justice Hack](https://www.abajusticehack.org/badgewatchg) being prototyped by [Code For Miami](https://www.codeformiami.com). This app is only for demonstration and feature validation not for use in production. Use this as a framework to build your own version of this app in the language you feel most comfortable in.
 

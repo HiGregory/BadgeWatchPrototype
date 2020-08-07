@@ -7,6 +7,8 @@ search tool could help people identify information.
 Orginally a prototype concept, BadgeWatch is a badge search tool for local residents to find information related to police complaints. 
 
 --------------------
+
+## Old Concept | 2018
 Code repository for Badgewatch, a live-stream data portal from
 [ABA Justice Hack](https://www.abajusticehack.org/badgewatchg) being prototyped by [Code For Miami](https://www.codeformiami.com). This app is only for demonstration and feature validation not for use in production. Use this as a framework to build your own version of this app in the language you feel most comfortable in.
 

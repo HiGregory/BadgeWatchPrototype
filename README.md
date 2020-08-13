@@ -8,7 +8,7 @@ Orginally a prototype concept, BadgeWatch is a badge search tool for local resid
 
 --------------------
 
-* [GitHub](https://github.com/HiGregory/BadgeWatchPrototype)
+* [Specifications](https://docs.google.com/document/d/1S4mxMGBGdSeSwo1NnW0-uCeyw9oy-_4C30kOtWjQk_c/edit?usp=sharing)
 * [Requirements](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
 * [UX Research](https://projects.invisionapp.com/boards/VN3TI2NZBKE)
 

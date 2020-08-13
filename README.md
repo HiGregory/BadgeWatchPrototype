@@ -8,14 +8,9 @@ Orginally a prototype concept, BadgeWatch is a badge search tool for local resid
 
 --------------------
 
-## Old Concept | 2018
-Code repository for Badgewatch, a live-stream data portal from
-[ABA Justice Hack](https://www.abajusticehack.org/badgewatchg) being prototyped by [Code For Miami](https://www.codeformiami.com). This app is only for demonstration and feature validation not for use in production. Use this as a framework to build your own version of this app in the language you feel most comfortable in.
-
 * [GitHub](https://github.com/HiGregory/BadgeWatchPrototype)
 * [Requirements](https://docs.google.com/document/d/1I1_FcCZHoDbR5MEixw9z3RtooUgugUlc1HcrHhcW_Tk/edit?usp=sharing)
 * [UX Research](https://projects.invisionapp.com/boards/VN3TI2NZBKE)
-* [App Proof of Concept](badgewatch.higregory.com)
 
 ## Documentation
 

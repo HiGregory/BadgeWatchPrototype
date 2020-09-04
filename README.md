@@ -1,10 +1,13 @@
-# Badge Watch Update | Aug 3, 2020
+# Badge Watch {BETA} | Aug 3, 2020
 
-Where can you find police complaints in your local city or county? Often this data is compilled and shared in reports but 
-it's hard for people to access. Many cities and counties like Miami have reports with information like this that if put into a simple
-search tool could help people identify information.
+![Imgur](https://imgur.com/KvjKXk8.png)
+
+Where can you search about police with history of complains at the local or county level? Badge Watch is a tool that scraped available data
+from municipalities with public data related to police complaints and makes it searchable. 
 
 Orginally a prototype concept, BadgeWatch is a badge search tool for local residents to find information related to police complaints. 
+
+Status - Aug 3, 2020 launched Beta 
 
 --------------------
 
